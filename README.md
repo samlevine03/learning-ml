@@ -19,6 +19,6 @@ Throughout my learning, I've found the following textbooks to be incredibly help
 4. [The Elements of Statistical Learning (second edition)](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) by Trevor Hastie, Robert Tibshirani, Jerome Friedman, 2009.
 
 ## Repository Contents
-In this repository, you'll find a variety of notes, mini-projects, and other materials that I've compiled and created throughout my learning journey. 
+In this repository, you'll find a variety of mini-projects, and over time, other materials that I've compiled and created throughout my learning journey. 
 
 Happy learning!
